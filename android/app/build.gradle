@@ -31,10 +31,10 @@ android {
     }
     signingConfigs {
         release {
-            keyAlias 'sangam shrestha'
-            keyPassword 'Sangam1111@'
-            storeFile file('upload.jks')
-            storePassword 'Sangam1111@'
+            keyAlias ''
+            keyPassword ''
+            storeFile file('')
+            storePassword ''
         }
     }
     buildTypes {
