@@ -1,1 +1,1 @@
-# AfnoLedger
+# Afno Ledger is envisioned as a powerful and user-friendly business management system tailored to meet the unique needs of Nepali enterprises. Going beyond the basic functionalities of a traditional ledger, Afno Ledger aims to be a central hub for inventory, customer interactions, and generating insightful reports to drive informed decision-making.
